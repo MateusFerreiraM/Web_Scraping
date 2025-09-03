@@ -6,8 +6,6 @@ Este é um script em Python que realiza web scraping no site [Books to Scrape](h
 
 O projeto demonstra habilidades em automação, manipulação de dados e boas práticas de desenvolvimento, como processamento paralelo e logging.
 
-Repositório no GitHub: [MateusFerreiraM/Web-Scraping](https://github.com/MateusFerreiraM/Web-Scraping.git)
-
 ## Funcionalidades
 
 - **Descoberta Automática de Páginas:** Identifica automaticamente o número total de páginas do catálogo, tornando o scraper adaptável a mudanças no site.
@@ -27,7 +25,7 @@ Repositório no GitHub: [MateusFerreiraM/Web-Scraping](https://github.com/Mateus
 
 1. Clone o repositório para sua máquina:
     ```bash
-    git clone https://github.com/MateusFerreiraM/Web-Scraping.git
+    git clone https://github.com/MateusFerreiraM/Web_Scraping.git
     ```
 
 2. Acesse a pasta do projeto:
