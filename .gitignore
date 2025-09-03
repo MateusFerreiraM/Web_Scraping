@@ -1,0 +1,19 @@
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtualenv
+venv/
+.env/
+
+# Arquivos de log
+*.log
+
+# Saídas do scraping
+*.xlsx
+
+# Arquivos temporários
+*.tmp
+*.swp
+.DS_Store
